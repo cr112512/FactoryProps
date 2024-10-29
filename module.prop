@@ -1,0 +1,6 @@
+id=factory_props
+name=FactoryProps
+version=v0.1.1
+versionCode=11
+author=mhmrdd
+description=Utilizes shamiko's bootloader spoofing properties.
